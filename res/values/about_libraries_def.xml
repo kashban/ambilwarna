@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_ambilWarnaColorPicker"></string>
+    <string name="library_ambilWarnaColorPicker_author">yukuku</string>
+    <string name="library_ambilWarnaColorPicker_authorWebsite">http://www.londatiga.net/it/how-to-create-quickaction-dialog-in-android/</string>
+    <string name="library_ambilWarnaColorPicker_libraryName">AmbilWarna Color Picker</string>
+<string name="library_ambilWarnaColorPicker_libraryDescription">aka AmbilWarna library ("Pick a Color" in Indonesian). This is a small library for your application to enable the users to select an arbitrary color.
+</string>
+    <string name="library_ambilWarnaColorPicker_libraryVersion">1.0</string>
+    <string name="library_ambilWarnaColorPicker_libraryWebsite">https://code.google.com/p/android-color-picker/</string>
+    <string name="library_ambilWarnaColorPicker_licenseId">apache_2_0</string>
+    <string name="library_ambilWarnaColorPicker_isOpenSource">true</string>
+    <string name="library_ambilWarnaColorPicker_repositoryLink">https://code.google.com/p/yuku-android-util/source/browse/#git%2FAmbilWarna</string>
+</resources>
